@@ -1,0 +1,11 @@
+# Program sederhana untuk menjumlahkan dua angka
+
+# Meminta input dari pengguna
+angka1 = float(input("2: "))
+angka2 = float(input("10: "))
+
+# Menjumlahkan angka
+jumlah = angka1 + angka2
+
+# Menampilkan hasil
+print("Jumlah dari", angka1, "dan", angka2, "adalah", jumlah)
